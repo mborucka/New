@@ -1,1 +1,7 @@
 Piszę tu coś.
+
+
+Ciekawę, że coś tu już jest. To pierwsza linia tekstu, a tu jest druga linia tekstu, napisana później.
+
+To jest wersja po rozwiązniu konfliktu.
+
